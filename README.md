@@ -3,6 +3,10 @@
 ## Бот работает на сервере и доступен к использованию в любое время
 ## Бот в telegram: [ссылка](https://t.me/ru_cities_trainerbot)
 
+### Скриншоты работы:
+![You lost!](https://github.com/sasamb4ik/project2_cities/blob/dev/images/utils.png)
+
+![You lost!](https://github.com/sasamb4ik/project2_cities/blob/dev/images/work.png)
 ### Если вы хотите запустить локально:
   Важно понимать, что бот одновременно может быть запущен только на одной машине. Так как он постоянно запущен на сервере, чтобы вы могли локально проверить работу, вам необходимо:
   1) Зайти в telegram-канал BotFather [ссылка](https://t.me/BotFather)
