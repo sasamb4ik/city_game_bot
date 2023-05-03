@@ -1,4 +1,4 @@
-LIST_OF_CITIES = "cities.txt"
+LIST_OF_CITIES = "src/cities.txt"
 TOKEN = "6276851151:AAGWK6MJGtFcB3Z9hJpPh6J9P8cO7l3oVs4"
 LOCAL_A = 1040  # chr(1040) = А
 LOCAL_Z = 1071  # chr(1071) = Я
